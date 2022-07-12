@@ -21,3 +21,6 @@ function ordinalSuffix(n) {
     }
 }
 
+module.exports = {ordinalSuffix}
+
+

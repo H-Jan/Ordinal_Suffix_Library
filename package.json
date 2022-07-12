@@ -1,0 +1,23 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-Jan/Ordinal_Suffix_Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H-Jan/Ordinal_Suffix_Library/issues"
+  },
+  "homepage": "https://github.com/H-Jan/Ordinal_Suffix_Library#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
